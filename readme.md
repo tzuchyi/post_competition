@@ -5,6 +5,9 @@
 
 
 ## 初賽成果
+* 使用k-means做出集群分類作為決策區分
+* 利用arima時間序列預測業務量節省人力成本
+* 結合外部人口資料找出適合增設i郵箱地區
 - [初賽成果](https://github.com/tzuchyi/post_competition/blob/master/%E9%83%B5%E5%B1%80%E5%A4%A7%E6%95%B8%E6%93%9A.pdf)
 
 
