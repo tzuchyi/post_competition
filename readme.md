@@ -1,3 +1,9 @@
+## 介紹
+**中華郵政大數據競賽**
+
+依據中華郵政提供之郵務數據，擬定具創新發展性之應用題目，並進行分析實作。
+
+
 ## 初賽成果
 - [初賽成果](https://github.com/tzuchyi/post_competition/blob/master/%E9%83%B5%E5%B1%80%E5%A4%A7%E6%95%B8%E6%93%9A.pdf)
 
